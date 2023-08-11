@@ -1,0 +1,14 @@
+name = "BlossomBack"
+filename = "blossom-back-2.1.0+1.20.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/tHwJbPJm/versions/hsgsAqBN/blossom-back-2.1.0%2B1.20.jar"
+hash-format = "sha512"
+hash = "1c7701b21c9fd4c99e28c8aabf56dbd9c80add18e27f40034d7ebf301e1d51d2e10e21a8560ea8956a0ad176b8651218285ab4fe27025b75f9992706c53baec9"
+
+[update]
+[update.modrinth]
+mod-id = "tHwJbPJm"
+version = "hsgsAqBN"
