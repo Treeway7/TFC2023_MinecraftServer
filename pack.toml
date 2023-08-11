@@ -1,12 +1,12 @@
 name = "TFC 2023 Server"
 author = "Treeway7"
 version = "1.1.0"
-pack-format = "packwiz:1.1.0"
+pack-format = "packwiz:1.1.1"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "847ac12d8bf271aac7251e4b46c3f295faf053ad885ef4ffaeb4d20bc45cdbe7"
+hash = "ca59f18053551aed3018d150720da60222858db0abb2dd7aecd5eff31bbf4019"
 
 [versions]
 minecraft = "1.20.1"

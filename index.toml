@@ -429,6 +429,11 @@ hash = "affe1dbede9008f5e03cdf764b4c7a910fe7b9062dbeeb82d99e2497dc8603d8"
 metafile = true
 
 [[files]]
+file = "mods/redirectionor.pw.toml"
+hash = "3620bde82f3e140b03b4277384caf04ae80a84f15276f700fc552131043fbb4f"
+metafile = true
+
+[[files]]
 file = "mods/scaffolding-drops-nearby.pw.toml"
 hash = "9be684d499b7a3ded926f563bdda4f7b8950f3cad6160b763b76de5798742bb3"
 metafile = true
